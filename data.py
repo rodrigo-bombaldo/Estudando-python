@@ -1,0 +1,1 @@
+print('dia','mês','ano', sep='/')

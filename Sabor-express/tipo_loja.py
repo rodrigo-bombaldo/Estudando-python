@@ -1,3 +1,4 @@
+import os;
 nome_cadastro = 'SABOR EXPRESS\n';
 print(nome_cadastro);
 escolha_loja = 'Digite o tipo da sua loja';
@@ -9,3 +10,4 @@ print(f'2  - Altere {tipo}');
 escolha = 'Escolha a opção:\n';
 confirm = input(escolha);
 print(f'Você escolheu a opção {confirm}');
+

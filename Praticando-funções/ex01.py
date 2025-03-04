@@ -1,6 +1,7 @@
  # Fazer uma função que pega a data de nascimento do aluno da professora Julia e calcula sua diade.
 # Esse trecho do código é para criar a mensagem de boas-vindas para a nova professora da turma!
 hello = 'Seja bem-vindo à turma da professora '
+
 nome = 'Qual é o nome do seu professora?'
 # pro = input({nome})
 pro = 'Julia'
